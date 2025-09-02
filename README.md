@@ -1,6 +1,8 @@
 ## Olá, eu sou a Maria Eduarda. 👋
-*✏️Comecei a estudar programação em 2024
-*🎓Curso técnico em desenvolvimento de sistemas - SENAC-MG
+-✏️Comecei a estudar programação em 2024
+
+
+-🎓Curso técnico em desenvolvimento de sistemas - SENAC-MG
 
 
 ---
