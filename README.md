@@ -1,5 +1,4 @@
-## Hi there 👋
-Olá, eu sou a Maria Eduarda. 
+## Olá, eu sou a Maria Eduarda. 👋
 *✏️Comecei a estudar programação em 2024
 *🎓Curso técnico em desenvolvimento de sistemas - SENAC-MG
 
